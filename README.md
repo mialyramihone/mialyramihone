@@ -1,55 +1,56 @@
-# 👋 Hello, I'm LADY !
+# 🩷 ~ Hi, I'm **LADY** ~ ✨  
 
-**Passionate Developer & Designer** | 🎮 Gamer | 🎨 Creative Mind  
+**🌸 Creative Developer • UI/UX Designer • Gaming Enthusiast 🌸**  
 
----
+---  
 
-## 🛠 Skills
+## 🍒 **About Me**  
+`💖` Passionate about **pretty code** & **aesthetic designs**  
+`🎀` Love everything **pink, kawaii & cute**  
+`🎮` Game + Design = My happy place  
+`🍰` Naming my projects after **desserts** *(because why not?)*  
 
-### 💻 Programming Languages
-**Web Development**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+---  
 
-**Mobile & Software**  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+## 🩷 **My Tech Stack**  
 
-### 🖥 Frameworks & Tools
-**Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+### 💻 **Coding Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-%23FFD1DC?style=for-the-badge&logo=html5&logoColor=FF69B4)  
+![Python](https://img.shields.io/badge/Python-%23FFB7D5?style=for-the-badge&logo=python&logoColor=FF1493)  
+![CSS3](https://img.shields.io/badge/CSS3-%23FFC0CB?style=for-the-badge&logo=css3&logoColor=D7008A)  
 
-**Backend**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+### 🎨 **Design & Tools**  
+![Figma](https://img.shields.io/badge/Figma-%23FF9FF3?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%23FF9ED6?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%23FFB3DE?style=for-the-badge&logo=canva&logoColor=FF0080)  
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+### 🛠 **Frameworks**  
+![React](https://img.shields.io/badge/React-%23FFB8E6?style=for-the-badge&logo=react&logoColor=pink)  
+![Node.js](https://img.shields.io/badge/Node.js-%23FFCCE5?style=for-the-badge&logo=node.js&logoColor=FF007F)  
 
----
+---  
 
-## 🌱 Currently
-- Learning advanced animations and React best practices
-- Building personal web projects
-- Open to creative collaborations
+## 🎀 **Currently...**  
+`💝` Learning **React animations** & **UI micro-interactions**  
+`🍡` Working on a **kawaii-themed app**  
+`👛` Looking to collaborate on **cute & creative projects!**  
 
----
+---  
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+## 📍 **Let's Connect!**  
+[![Email](https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
+[![Discord](https://img.shields.io/badge/Discord-%23FF6B9E?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)  
 
----
+---  
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 💘 **GitHub Stats**  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=true&bg_color=FFD6E7&text_color=FF007F&title_color=FF0080)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=FFE6F2&text_color=D63384)  
+
+---  
+
+**💋 Thanks for visiting! Stay sparkly~ ✨**  
