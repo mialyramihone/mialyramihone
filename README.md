@@ -39,9 +39,9 @@
 ---  
 
 ## 📍 **Let's Connect!**  
-[![Email](https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
-[![Discord](https://img.shields.io/badge/Discord-%23FF6B9E?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)  
+[![Email](https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramihonemialy@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mialyramihone)  
+[![Discord](https://img.shields.io/badge/Discord-%23FF6B9E?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/freestylegirl)  
 
 ---  
 
