@@ -56,13 +56,6 @@
 
 ---
 
-## 💘 **GitHub Stats**
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=true&bg_color=FFD6E7&text_color=FF007F&title_color=FF0080)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=FFE6F2&text_color=D63384)  
-
----
 
 <div align="center" style="background: #ffe9f3; padding: 1em; border-radius: 12px;">
 🩷 **Thanks for visiting! Stay sparkly, stay sweet ✨** 🍰  
