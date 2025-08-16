@@ -1,4 +1,4 @@
-# 🌷💫 ~ Hi, I'm **LADY** ~ 🩷🌸  
+# 🌷💫 ~ Hi, I'm **𝗗𝗔𝗟𝗜𝗔** ~ 🩷🌸  
 
 <div align="center" style="background: linear-gradient(to right, #ffd6e7, #ffe3f4); padding: 1em; border-radius: 15px;">
 
@@ -50,8 +50,7 @@
 
 ## 🌸 **Let's Connect!**
 
-[![Email](https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramihonemialy@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mialyramihone)  
+[![Email](https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramihonemialy@gmail.com)   
 [![Discord](https://img.shields.io/badge/Discord-%23FF6B9E?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/freestylegirl)  
 
 ---
