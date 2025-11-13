@@ -1,65 +1,83 @@
+# 🎡 ~ 𝗗𝗔𝗟𝗜𝗔'𝗦 𝗦𝗣𝗘𝗖𝗧𝗔𝗖𝗨𝗟𝗔𝗥 𝗦𝗣𝗔𝗖𝗘 ~ 🌌
+
+<div align="center">
+
+<!-- Main animated title -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  𝕯𝖆𝖑𝖎𝖆'𝖘 𝕯𝖎𝖌𝖎𝖙𝖆𝖑 𝕯𝖔𝖒𝖆𝖎𝖓
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h3>
+
+<!-- Animated text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=30&lines=✨+Welcome+to+my+magical+code+realm;🎀+Where+creativity+meets+technology;🌈+Building+digital+dreams+with+sparkles" alt="Typing SVG" />
+</p>
+
+</div>
+
+## 🎊 **Live Activity**
+
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+[![Dalia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&bg_color=ffd6e7&color=ff69b4&line=ff8ec7&point=ffb6d9&area=true&hide_border=true)](https://github.com/VOTRE_USERNAME)
+
+</div>
+
+## 🌠 **Digital Galaxy**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 **Design Skills**
+![Figma](https://img.shields.io/badge/Figma-FF9FF3?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 💻 **Dev Skills**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 🛠️ **Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 
-# 🌷 ~ Hi, I'm **𝗗𝗔𝗟𝗜𝗔** ~ 💖
+</div>
 
-<div align="center" style="background: linear-gradient(to right, #ffd6e7, #ffe3f4); padding: 1em; border-radius: 15px;">
+## 💖 **Let's Collab!**
+<div align="center">
 
-**Creative Developer • UI/UX Princess • Gaming Sweetheart**
-
-✨ Dreaming in pastel. Coding in kawaii. Designing with sparkles ✨
+<!-- Social links with icons -->
+[![Discord](https://img.shields.io/badge/🎮_Join_My_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/freestylegirl)
 
 </div>
 
 ---
 
-## 💕 **About Me**
+<div align="center">
 
-`💻` I craft **pretty code** & adore **aesthetic interfaces**
-`🌸` Obsessed with **pink, sparkles & cherry blossoms**
-`🎮` Coding & gaming = my comfort zone
-`🍰` Every project is named after a **sweet treat**
+<!-- Animated quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
----
-
-## 💻 **My Tech Stack**
-
-### 💗 **Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FFB6C1?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23FFD1DC?style=for-the-badge\&logo=html5\&logoColor=FF69B4)
-![Python](https://img.shields.io/badge/Python-%23FFB7D5?style=for-the-badge\&logo=python\&logoColor=FF1493)
-![CSS3](https://img.shields.io/badge/CSS3-%23FFC0CB?style=for-the-badge\&logo=css3\&logoColor=D7008A)
-
-### 🎨 **Design Tools**
-
-![Figma](https://img.shields.io/badge/Figma-%23FF9FF3?style=for-the-badge\&logo=figma\&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%23FF9ED6?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%23FFB3DE?style=for-the-badge\&logo=canva\&logoColor=FF0080)
-
-### 🛠️ **Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-%23FFB8E6?style=for-the-badge\&logo=react\&logoColor=pink)
-![Node.js](https://img.shields.io/badge/Node.js-%23FFCCE5?style=for-the-badge\&logo=node.js\&logoColor=FF007F)
-
----
-
-## 🌼 **Currently**
-
-`🌈` Learning **React animations** & UI **micro-interactions**
-`🍡` Creating a **pastel-dream kawaii app**
-`💞` Open to collabs on **cute & cozy projects**
-
----
-
-## 💌 **Let's Connect**
-
-[![Email](https://img.shields.io/badge/Email-%23FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ramihonemialy@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%23FF6B9E?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/freestylegirl)
-
----
-
-<div align="center" style="background: #ffe9f3; padding: 1em; border-radius: 12px;">
-💗 **Thanks for visiting! Stay sparkly & sweet ✨**  
 </div>
 
----
+<div align="center" style="background: linear-gradient(45deg, #ff69b4, #ff8ec7, #ffb6d9); padding: 2em; border-radius: 20px; margin-top: 2em;">
+
+### 🎇 **Thanks for stopping by!** 🎇
+
+![Footer](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=30&lines=💝+Remember+to+always+spread+love;✨+Keep+shining+like+the+star+you+are;🎀+Dream+big+and+code+with+passion)
+
+</div>
