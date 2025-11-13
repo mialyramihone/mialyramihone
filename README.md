@@ -16,14 +16,6 @@
 
 </div>
 
-## 🎊 **Live Activity**
-
-<div align="center">
-
-<!-- GitHub Activity Graph -->
-[![Dalia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_USERNAME&bg_color=ffd6e7&color=ff69b4&line=ff8ec7&point=ffb6d9&area=true&hide_border=true)](https://github.com/VOTRE_USERNAME)
-
-</div>
 
 ## 🌠 **Digital Galaxy**
 
