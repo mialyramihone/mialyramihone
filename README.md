@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=22&duration=4000&pause=1500&color=F4C2C2&center=true&vCenter=true&width=600&height=40&lines=L'art+du+code+%26+du+design;Tisser+des+expériences+numériques;Créer.+Concevoir.+Jouer." alt="Typing SVG" />
 </p>
 
 <p align="center">
